@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,p{
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.rere{
+    background-color: none;
+}
+
+.nubank{
+ 
+	transform: translatey(0px);
+	animation: float 6s ease-in-out infinite;
+}
+
+.frenteCard{
+    position: relative;
+    z-index: 1;
+}
+.backCard{
+    position: relative;
+    top: -50%;
+z-index: 0;
+}
+
+.main{
+
+    /* border: 2px solid red; */
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+
+
+
+.celphone{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.btn1 {
+    display: block;
+    padding: 5px;
+    font-weight: 400;
+    position: relative;
+    text-decoration: none;
+    color: black;
+    background: none;
+    border: none;
+    
+    
+  }
+
+
+  .btn1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0%;
+    width: 0%;
+    height: 0.15rem;
+    background-color: #ae20e2;
+    
+    transition: all 300ms ease-in-out;
+}
+.btn1:hover::after{
+    width: 100%;
+}
+.secondPage{
+    background-color: #8C1FB3 ;
+    background-image: url(imgs/patternfade.jpg);
+   
+    
+    padding-top: 17rem;
+    padding-bottom: 17rem;
+  
+}
+
+
+.thirdPage{
+    background-color: white;
+}
+
+.sticky{
+    position: fixed;
+    
+    width: 100%;
+    transform: translateY(0px);
+    animation: stickyAnim 300ms ease-in-out;
+    transition: 300ms ease-in-out;
+    background: rgba(255, 255, 255, 0.938);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.027);
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(5px);
+}
+@keyframes stickyAnim {
+	0% {
+		transform: translateY(-20px);
+	}
+
+	100% {
+	
+		transform: translateY(0px);
+	}
+}
+
+
+.btn-light{
+    background-color: #c257e9;
+    color: white;
+    border-radius: 20px;
+}
+
+.btn-light:hover{
+    background-color: #c257e9;
+    color: white;
+}
+
+@keyframes float {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+	
+		transform: translatey(-20px);
+	}
+	100% {
+	
+		transform: translatey(0px);
+	}
+}
+
+.nav-link{
+    font-weight: 500;
+    color: purple;
+    display: block;
+    padding: 1px;
+    position: relative;
+  
+    
+}
+
+.nav-link:not(.not):after{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: '.';
+    color: transparent;
+    background: #c257e9;
+    height: 2px;
+    
+    transition: all 300ms ease-in-out;
+
+}
+
+
+.nav-link:not(.not):hover::after{
+    width: 100%;
+
+}
+
+@media (max-width: 991px)  {
+    .nav-link:not(.not):hover::after{
+        display: none;
+    }
+}
+
+.forthPage{
+    background-color: #8C1FB3 ;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.fivePage{
+    
+    background-image: linear-gradient(to bottom, rgba(33, 0, 87, 0.52), rgba(112, 2, 85, 0.445)), url(imgs/limite-nubank-2.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+   
+
+}
+
+footer{
+    padding-top: 3rem;
+   
+ 
+
+    background-color: rgb(27, 27, 27);
+}
+
+.col-sm-12  > h4{
+    color: white;
+    font-weight: 100;
+    margin-bottom: 3rem;
+}
+
+.col-sm-12 > a> h5{
+    color: white;
+    font-weight: 400;
+  
+}
+
+.col-sm-12 >  h5{
+    color: white;
+    font-weight: 400;
+  
+}
+
+
+
+.sixthPage{
+    background-image: url(imgs/webl.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.sec-hidden{
+    opacity: 0;
+    transform: translateY(4rem);
+}
+
+.sec-hiddenXR{
+    opacity: 0;
+    transform: translateX(4rem);
+}
+.sec-hiddenXL{
+    opacity: 0;
+    transform: translateX(-4rem);
+}
+
+
+.slideRL{
+    transition: transform 1s, opacity 1s;
+}
+
+
+
+.slideUp{
+    transition: transform 1s, opacity 1s;
+}
+
