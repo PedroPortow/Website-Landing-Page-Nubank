@@ -1,5 +1,5 @@
 
-![Logo of the project](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/home.png)
+![Logo of the project](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/nulogoprojeto.png)
 
 
 ## Responsive Website feito para Nubank
@@ -22,7 +22,7 @@ Aqui estão as tecnologias que usei nesse projeto.
 
 ### 1 - Esta é a Home do site, contendo uma navbar responsiva ao topo (Os links não são funcionais). Ao clicar em "Quero saber mais sobre ↓" o viewport é direcionado para a segunda página.
 
-![Homepage image](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/nulogoprojeto.png)
+![Homepage image](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/home.png)
 
 ### 2 - Esta página contém informações sobre a conta digital e o cartão da Nubank, quando o usuário chega nesta página a navbar torna-se sticky.
 
