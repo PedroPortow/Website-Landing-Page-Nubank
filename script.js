@@ -90,9 +90,3 @@ slideRL.forEach(function(section){
 });
 
 
-
-////////////////////////////////////////////////////////////////
-////////// IMG  LAZY              //////////////////////////////
-const imgTargets = document.querySelectorAll('img[data-src]');
-
-const imgObserver = new IntersectionObserver(loadingImg,{});
