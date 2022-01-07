@@ -1,5 +1,5 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png)
+![Logo of the project](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/home.png)
 
 
 ## Blog Lucas Fernandes
