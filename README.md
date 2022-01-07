@@ -42,13 +42,13 @@ Aqui estão as tecnologias que usei nesse projeto.
 ![5 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/FifthPage.png)
 
 
-### 6 - Página com iamgem ao fundo.
+### 6 - Página com imagem ao fundo.
 
-![6 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/SixthPage.png)
+![6 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/pagee%20-%20Copia.png)
 
 ### 7 - Rodapé da página contendo informações para os usuários (links não funcionais)
 
-![Footer](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/Footer.png)
+![Footer](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/footer.png)
 
 
 ## Links
