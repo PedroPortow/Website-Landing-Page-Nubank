@@ -1,97 +1,63 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/app/assets/images/logo.png)
+![Logo of the project](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/nulogoprojeto.png)
 
 
-## Blog Lucas Fernandes
-This is my blog \o/ 
-Enjoy It and I hope you can learn a lot!
+## Responsive Website feito para Nubank
+Site responsivo feito utilizando Bootstrap v5<br>
+(Este site foi feito para propósito de estudo somente)
 
+## Tecnologias
 
-## Technology 
+Aqui estão as tecnologias que usei nesse projeto.
 
-Here are the technologies used in this project.
+* Bootstrap v5
+* HTML/CSS
+* Javascript
 
-* Ruby version  3.0.0
-* Rails version 6.1.3.2
-* PostgreSQL
-* Webpacker
-
-## Services Used
+## Serviços usados
 
 * Github
-* Heroku
 
-## Ruby Gems
+## Guia de uso
 
-* Devise
-* Bootstrap
-* Kaminari
-* Select2
-* Cancancan
-
-
-## Getting started
-
-* Dependency
-  - Ruby  
-  - Rails
-
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
-  
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
-  
-* To install the gems.
-  - bundle install
-  
-* To run the project.
-  - rails s
-
-## How to use
-
-### 1 - When you access, you will see the Home page <3
+### 1 - Esta é a Home do site, contendo uma navbar responsiva ao topo (Os links não são funcionais). Ao clicar em "Quero saber mais sobre ↓" o viewport é direcionado para a segunda página.
 
 ![Homepage image](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/home.png)
 
-### 2 - You can also see a lot of information on the Blog posts session.
+### 2 - Esta página contém informações sobre a conta digital e o cartão da Nubank, quando o usuário chega nesta página a navbar torna-se sticky.
 
-![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
+![2 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/secondPage.png)
 
-### 3 - Or access some of the posts :D
+### 3 - Esta página contém informações sobre o pagamento via pix utilizando a Nubank.
 
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_2.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
-
-### 4 - Or you can see my personal Portfolio.
-
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
+![3 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/ThirdPage.png)
 
 
-## Features
+### 4 - Esta parte contém trechos de matérias sobre a Nubank
 
-The main features of the application are:
- - Publish Posts.
- - Learn a lot of information <3
+![4 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/ForthPage.png)
+
+### 5 - Esta página apresenta o cartão ultravioleta da Nubank.
+
+![5 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/FifthPage.png)
+
+
+### 6 - Esta página apresenta o cartão ultravioleta da Nubank.
+
+![6 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/SixthPage.png)
+
+### 7 - Rodapé da página contendo informações para os usuários (links não funcionais)
+
+![Footer](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/Footer.png)
 
 
 ## Links
-  - Deploy on Heroku: https://lucas-dev.com/
-  - Repository: https://github.com/Lucasdfg07/Blog_Lucas_Fernandes
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+  - Deploy no GithubPages: https://pedroportow.github.io/Website-Landing-Page-Nubank/
+  - Repository: https://github.com/PedroPortow/Website-Landing-Page-Nubank
 
-  ## Versioning
+  ## Autor
 
-  1.0.0.0
+  * **Pedro Porto** 
 
-
-  ## Authors
-
-  * **Lucas Siqueira Fernandes** 
-
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+    Se achou interessante, me siga no GitHub :)
+    Obrigado por visitar!
