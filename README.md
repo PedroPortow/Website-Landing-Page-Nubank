@@ -22,7 +22,7 @@ Aqui estão as tecnologias que usei nesse projeto.
 
 ### 1 - Esta é a Home do site, contendo uma navbar responsiva ao topo (Os links não são funcionais). Ao clicar em "Quero saber mais sobre ↓" o viewport é direcionado para a segunda página.
 
-![Homepage image](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/home.png)
+![Homepage image](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/home.png)
 
 ### 2 - Esta página contém informações sobre a conta digital e o cartão da Nubank, quando o usuário chega nesta página a navbar torna-se sticky.
 
@@ -42,7 +42,7 @@ Aqui estão as tecnologias que usei nesse projeto.
 ![5 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/FifthPage.png)
 
 
-### 6 - Esta página apresenta o cartão ultravioleta da Nubank.
+### 6 - Página com iamgem ao fundo.
 
 ![6 Página](https://github.com/PedroPortow/Website-Landing-Page-Nubank/blob/main/readmeContent/SixthPage.png)
 
