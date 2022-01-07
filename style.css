@@ -6,6 +6,8 @@
     margin: 0;
 }
 
+
+
 h1,h2,h3,p{
     font-family: 'Poppins', sans-serif;
 }
@@ -35,9 +37,9 @@ z-index: 0;
 }
 
 .main{
-
+   
     /* border: 2px solid red; */
-    padding-top: 10rem;
+    padding-top: 4rem;
     padding-bottom: 4rem;
 }
 
